@@ -28,7 +28,7 @@
   .htmlMode {
     animation: flip 2s;
   }
-  
+
   @keyframes flip {
     from {
       opacity: 0;
